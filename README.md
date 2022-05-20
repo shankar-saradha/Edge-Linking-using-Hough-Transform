@@ -57,26 +57,19 @@ plt.imshow(edges1)
 ## Output
 
 ### Input image and grayscale image
-<br>![download](https://user-images.githubusercontent.com/93978702/169489178-a2882f37-07ed-4a81-bb4b-24c826b582bf.png)
+![download](https://user-images.githubusercontent.com/93978702/169489178-a2882f37-07ed-4a81-bb4b-24c826b582bf.png)
 
-<br>
-<br>
-<br>
+
 
 ### Canny Edge detector output
-<br>
-<br>
-<br>![download](https://user-images.githubusercontent.com/93978702/169489189-904b4076-0968-4182-8974-13e5e8c750db.png)
+![download](https://user-images.githubusercontent.com/93978702/169489189-904b4076-0968-4182-8974-13e5e8c750db.png)
 
-<br>
+
 
 
 ### Display the result of Hough transform
+![download](https://user-images.githubusercontent.com/93978702/169489206-d9dfff99-d5b1-4728-842e-89ae2fa07030.png)
 
-<br>
-<br>![download](https://user-images.githubusercontent.com/93978702/169489206-d9dfff99-d5b1-4728-842e-89ae2fa07030.png)
-<br>
-<br>
 
 
 
